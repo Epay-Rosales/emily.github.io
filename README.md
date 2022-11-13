@@ -7,12 +7,16 @@
 
 - Feebear instructions using Snagit
 - REST API documentation
-- Confluence instructions
+- SalesForce/Confluence instructions
 - User guide for access coordinators
 - User guide for intake clinicians
 - User guide for bedside nurses
 - Writing project documentation
 - Travel guide (class project)
+^
+### Design Projects:
+
+- VOIP brochure
 
 
 [simplybiga@gmail.com](mailto:simplybiga@gmail.com)
