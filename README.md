@@ -1,6 +1,6 @@
 ## My Portfolio
 
-### This is a work in progress.
+### This site is a work in progress.
 {: .purple}
 
 ### Writing Projects:
