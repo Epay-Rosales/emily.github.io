@@ -1,6 +1,7 @@
 ## My Portfolio
 
-### Building in progress
+### This is a work in progress.
+{: .purple}
 
 ### Writing Projects:
 
@@ -18,3 +19,12 @@
 
 ##### Coquitlam BC, Canada
 ##### November 2022
+
+<style>
+  .purple {
+    color:inherit;
+  }
+  .purple:hover {
+    color:rgb(107,79,187);
+  }
+</style>
