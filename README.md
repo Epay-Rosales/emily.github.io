@@ -5,7 +5,7 @@
 
 ### Writing Projects:
 
-- Feebear instructions using Snagit
+- FeedBear instructions using Snagit
 - REST API documentation
 - SalesForce/Confluence instructions
 - User guide for access coordinators
