@@ -7,7 +7,7 @@
 
 - Feebear instructions using Snagit
 - REST API documentation
-<img src="/emily_tw/Flask API.png" width="500" height="500">
+![My_Image](Flask API.png)
 - SalesForce/Confluence instructions
 - User guide for access coordinators
 - - User guide for intake clinicians
