@@ -59,7 +59,7 @@
 #### A group project in a technical writing class at BCIT.
 
 <img
-     src="thai.cover.png"
+     src="thai_cover.png"
      alt="Travel powerpoint"
      style="border: 1px solid #555; margin: 25px; height: 355; max-width: 565px">
      
