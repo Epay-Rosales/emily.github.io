@@ -19,9 +19,15 @@
      style="border: 1px solid #555; margin: 25px; height: 400; max-width: 610px">
                                                         
 ### FeedBear instructions featuring Snagit
-
+#### First example
 <img
      src="Feedbear_request.png"
+     alt="Feedbear instructions"
+     style="margin: 25px; height: 450; max-width: 600px">
+     
+#### Second example     
+<img
+     src="Feedbear_feedback.png"
      alt="Feedbear instructions"
      style="margin: 25px; height: 450; max-width: 600px">
      
