@@ -61,7 +61,7 @@
 <img
      src="thai.cover.png"
      alt="Travel powerpoint"
-     style="margin: 25px; height: 355; max-width: 565px">
+     style="border: 1px solid #555; margin: 25px; height: 355; max-width: 565px">
      
                                                         
 ### Design Project
