@@ -35,7 +35,7 @@
 #### A class project at BCIT.
 
  <img
-     src="Travel Thai_powerpoint.png"
+     src="Travel Thai_powerpoint.png
      alt="Travel powerpoint"
      style="margin: 25px; height: 355; max-width: 565px">
                                                         
