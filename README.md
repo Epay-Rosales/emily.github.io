@@ -11,7 +11,7 @@
      style="margin: 25px; height: 355; max-width: 565px">
 
 ### REST API messaging project
-#### Used Twilio JavaScript SDK rendered in Glitch.
+#### Used Twilio JavaScript SDK and rendered in Glitch.
 
  <img
      src="MakeNice_glitch.png"
