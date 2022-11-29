@@ -72,7 +72,7 @@
                                                         
 ### Design Project
 
-#### VOIP sales brochure
+##### Using existing text, designed a VOIP sales brochure as part of my technical communications program at Simon Fraser University, BC.
 
 <img
      src="sales_brochure.png"
