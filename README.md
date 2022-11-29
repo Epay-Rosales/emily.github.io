@@ -3,7 +3,7 @@
 
 ### REST API Documentation
 
-Followed a Real Python tutorial to create an app of people and their notes. Using Python, and other tools, created an API documentation in Swagger UI.
+Followed a Real Python tutorial to create an app of people and their notes. Using Python and a few other tools, created an API documentation in Swagger UI.
 
 <img
      src="Flask API.png"
