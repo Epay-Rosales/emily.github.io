@@ -8,7 +8,7 @@
 <img
      src="Flask API.png"
      alt="Flask API image"
-     style="margin: 25px; height: 355; max-width: 565px">
+     style="border: 1px solid #555; margin: 25px; height: 355; max-width: 565px">
 
 ### REST API messaging project
 #### Used Twilio JavaScript SDK and rendered in Glitch.
