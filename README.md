@@ -21,7 +21,7 @@
 ### FeedBear instructions featuring Snagit
 
 <img
-     src="Feedbear_Change status.docx"
+     src="Feedbear_request.png"
      alt="Feedbear instructions"
      style="margin: 25px; height: 450; max-width: 600px">
      
