@@ -15,15 +15,20 @@
 <img
      src="Flask video.mp4"
      alt="Flask video"
-     style="margin: 25px; height: 355; max-width: 565px">
+     style="margin: 25px; height: 450; max-width: 600"px">
      
 - SalesForce/Confluence instructions
 - User guide for access coordinators
 - - User guide for intake clinicians
 - User guide for bedside nurses
 - Writing project documentation
-- Travel guide (class project)
-^
+### Travel guide (class project)
+
+ <img
+     src="Travel Thai_powerpoint.png"
+     alt="Travel powerpoint"
+     style="margin: 25px; height: 355; max-width: 565px">
+                                                        
 ### Design Projects:
 
 - VOIP brochure
