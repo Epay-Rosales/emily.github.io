@@ -36,8 +36,15 @@
 - User guide for bedside nurses
 - Writing project documentation
 
+### Salesforce instructions
+#### Twelves pages of step-by-step instructions for new users of Salesforce.
 
-### Quick reference guidge
+<img
+     src="salesforce.png"
+     alt="Salesforce instructions"
+     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
+
+### Quick reference guide
      
 #### 31-page guide for clinicians that includes an index section.
 
