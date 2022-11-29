@@ -50,7 +50,7 @@
 #### 31-page guide for clinicians that includes an index section.
 
      <img
-     src="sl_cover.png"
+     src="SL_cover.png"
      alt="Quick reference guide"
      style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
      
