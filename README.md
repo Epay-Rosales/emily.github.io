@@ -3,17 +3,20 @@
 ### This site is a work in progress.
 {: .purple}
 
-### Writing Projects:
-
-- Feebear instructions using Snagit
-- REST API documentation
+### REST API Documentation Project
 
 <img
      src="Flask API.png"
      alt="Flask API image"
-     style="margin: 15px; height: 350; max-width: 550px">
+     style="margin: 25px; height: 355; max-width: 565px">
 
+### FeedBear instructions featuring Snagit
 
+<img
+     src="Flask video.mp4"
+     alt="Flask API image"
+     style="margin: 25px; height: 355; max-width: 565px">
+     
 - SalesForce/Confluence instructions
 - User guide for access coordinators
 - - User guide for intake clinicians
