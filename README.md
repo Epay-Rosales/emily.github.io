@@ -1,17 +1,18 @@
-## My Portfolio
-
-### This site is a work in progress.
+## My Portfolio - This site is still a work in progress.
 {: .purple}
 
-### REST API Documentation Project
+### REST API Documentation
+
+Followed a Real Python tutorial to create an app of people and their notes. Using Python, and other tools, created an API documentation in Swagger UI.
 
 <img
      src="Flask API.png"
      alt="Flask API image"
      style="border: 1px solid #555; margin: 25px; height: 355; max-width: 565px">
 
-### REST API messaging project
-#### Used Twilio JavaScript SDK and rendered in Glitch.
+### REST API messaging app
+
+##### Created a web API using a Twilio JavaScript helper library, Node.js and Flask. The app is rendered in Glitch. The app lets users send compliments to Twilio-validated phone numbers.
 
  <img
      src="MakeNice_glitch.png"
