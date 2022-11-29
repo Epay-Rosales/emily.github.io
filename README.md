@@ -52,15 +52,14 @@
 <img
      src="index_sample.png"
      alt="sample index page"
-     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px
-     ### Travel guide
+     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
 
-#### Travel guide to Thailand
+### Travel guide to Thailand
 
-#### A group project to fulfill requirements of a technical writing class at BCIT.
+#### A group project in a technical writing class at BCIT.
 
 <img
-     src="thai.cover.png
+     src="thai.cover.png"
      alt="Travel powerpoint"
      style="margin: 25px; height: 355; max-width: 565px">
      
