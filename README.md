@@ -14,7 +14,7 @@
 
 <img
      src="Flask video.mp4"
-     alt="Flask API image"
+     alt="Flask video"
      style="margin: 25px; height: 355; max-width: 565px">
      
 - SalesForce/Confluence instructions
