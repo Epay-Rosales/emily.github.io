@@ -29,7 +29,7 @@
 <img
      src="Feedbear_feedback.png"
      alt="Feedbear instructions"
-     style="margin: 25px; height: 450; max-width: 600px">
+     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
      
 - SalesForce/Confluence instructions
 - User guide for access coordinators
