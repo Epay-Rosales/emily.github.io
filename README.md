@@ -37,14 +37,7 @@
 - User guide for bedside nurses
 - Writing project documentation
 
-### Travel guide
-#### A class project at BCIT.
 
-<img
-     src="Travel Thai_powerpoint.png
-     alt="Travel powerpoint"
-     style="margin: 25px; height: 355; max-width: 565px">
-     
 ### Quick reference guidge
      
 #### 31-page guide for clinicians that includes an index section.
@@ -59,7 +52,18 @@
 <img
      src="index_sample.png"
      alt="sample index page"
-     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
+     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px
+     ### Travel guide
+
+#### Travel guide to Thailand
+
+#### A group project to fulfill requirements of a technical writing class at BCIT.
+
+<img
+     src="thai.cover.png
+     alt="Travel powerpoint"
+     style="margin: 25px; height: 355; max-width: 565px">
+     
                                                         
 ### Design Project
 
