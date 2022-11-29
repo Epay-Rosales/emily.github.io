@@ -48,7 +48,7 @@
 ### Sample of index
 
 <img
-     src="index_sample"
+     src="index_sample.png"
      alt="sample index page"
      style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
                                                         
