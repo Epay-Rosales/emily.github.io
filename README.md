@@ -44,6 +44,13 @@
      src="Travel Thai_powerpoint.png
      alt="Travel powerpoint"
      style="margin: 25px; height: 355; max-width: 565px">
+     
+### Sample of index
+
+<img
+     src="index_sample"
+     alt="sample index page"
+     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
                                                         
 ### Design Project
 
