@@ -33,7 +33,6 @@
      
 - SalesForce/Confluence instructions
 - User guide for access coordinators
-- User guide for intake clinicians
 - User guide for bedside nurses
 - Writing project documentation
 
