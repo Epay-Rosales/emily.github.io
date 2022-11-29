@@ -21,8 +21,8 @@
 ### FeedBear instructions featuring Snagit
 
 <img
-     src="Flask video.mp4"
-     alt="Flask video"
+     src="Feedbear_Change status.docx"
+     alt="Feedbear instructions"
      style="margin: 25px; height: 450; max-width: 600px">
      
 - SalesForce/Confluence instructions
