@@ -11,7 +11,7 @@
 <img
      src="Flask API.png"
      alt="Flask API image"
-     style="height: auto; max-width: 450px">
+     style="margin: 15px; height: 350; max-width: 550px">
 
 
 - SalesForce/Confluence instructions
