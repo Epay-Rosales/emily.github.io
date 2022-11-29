@@ -16,7 +16,7 @@
  <img
      src="MakeNice_glitch.png"
      alt="Messaging app in Glitch"
-     style="margin: 25px; height: 400; max-width: 610px">
+     style="border: 2px solid 555; margin: 25px; height: 400; max-width: 610px">
                                                         
 ### FeedBear instructions featuring Snagit
 
