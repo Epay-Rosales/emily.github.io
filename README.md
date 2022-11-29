@@ -10,6 +10,14 @@
      alt="Flask API image"
      style="margin: 25px; height: 355; max-width: 565px">
 
+### REST API messaging project
+#### Used Twilio JavaScript SDK rendered in Glitch.
+
+ <img
+     src="MakeNice_glitch.png"
+     alt="Messaging app in Glitch"
+     style="margin: 25px; height: 355; max-width: 565px">
+                                                        
 ### FeedBear instructions featuring Snagit
 
 <img
@@ -23,7 +31,8 @@
 - User guide for bedside nurses
 - Writing project documentation
 
-### Travel guide (class project)
+### Travel guide
+#### A class project at BCIT.
 
  <img
      src="Travel Thai_powerpoint.png"
