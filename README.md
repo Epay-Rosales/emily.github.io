@@ -47,6 +47,12 @@ Twelve-page instructions for new Salesforce users.
 ### Quick reference guide
      
 Thirty one-page guide for intake clinicians (nurses). Guide includes an an index section.
+
+#### About page
+<img
+     src="hh_guide.png"
+     alt="SL about page"
+     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
      
 #### Sample index page
 <img
@@ -56,7 +62,7 @@ Thirty one-page guide for intake clinicians (nurses). Guide includes an an index
      
 ### Project documentation plan
 
-A documentation plan for producing written content and deliverables in a region-wide new tech implementation.
+A documentation plan for producing written content and deliverables for a fictitious bank that's implementing a new system regionally. This is part of my technical communications program at SFU.
 
 <img
      src="doc_plan.png"
