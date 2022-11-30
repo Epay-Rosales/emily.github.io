@@ -66,6 +66,20 @@ Followed a Real Python tutorial to create an app of people and their notes. Usin
      alt="sample index page"
      style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
 
+### User guide for nurses
+
+#### Cover page
+<img
+     src="healthrec1.png"
+     alt="Nurses guide1"
+     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
+
+#### About page
+<img
+     src="healthrec2.png"
+     alt="Nurses guide2"
+     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
+     
 ### Travel guide to Thailand
 
 #### A group project in a technical writing class at BCIT.
