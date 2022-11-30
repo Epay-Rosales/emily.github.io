@@ -1,14 +1,23 @@
 ## Emily Rosales, technical writer/communicator
 
 ### Education
+- Become a Technical Writer, Boot Camp (B. Kennedy)
 - Simon Fraser University, Technical Communications certificate
 - British Columbia Institute of Technology, Technical Writing
 - University of the Philippines, AB Sociology
 
-## My Portfolio
-{: .purple}
+### Skills, Tools, Languages
+- Microsoft manual of style, document development methodology
+- HTML5/CSS, Markdown, YAML, JSON
+- Visual Studio, NetBeans
+- REST API documentation, docs-as-code workflow
+- Familiarity with Java, C, Python, and JavaScript
+- git, GitHub, Confluence, Salesforce 
+- Canva, Snagit, Madcao Flare, Adobe Acrobat, InDesign
 
-### REST API documentation
+## My Portfolio
+
+### Rest API documentation
 
 Implemented a web app of people resources using Python, and created a REST API documentation in Swagger.
 
