@@ -1,4 +1,4 @@
-## My Portfolio - This site is still a work in progress.
+## This is my portfolio as a technical communicator
 {: .purple}
 
 ### REST API documentation
@@ -46,7 +46,7 @@ Twelve-page instructions for new Salesforce users.
 
 ### Quick reference guide
      
-A 31-page guide for intake clinicians. Guide includes an index section. Below is the About page.
+A 31-page guide for intake clinicians. Guide includes an index section.
 
 #### This is the About page
 <img
