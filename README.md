@@ -48,13 +48,13 @@ Twelve-page instructions for new Salesforce users.
      
 Thirty one-page guide for intake clinicians (nurses). Guide includes an an index section.
 
-#### About page
+#### This is the About page
 <img
      src="hh_guide.png"
      alt="SL about page"
      style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
      
-#### Sample index page
+#### This is a sample index page
 <img
      src="index_sample.png"
      alt="sample index page"
@@ -71,15 +71,9 @@ A documentation plan for producing written content and deliverables for a fictit
 
 ### User guide for nurses
 
-A simple guide for admitting and discharging patients online.
+This is a quick guide for nurses and support staff admitting and discharging patients online.
 
-#### Cover page
-<img
-     src="healthrec1.png"
-     alt="Nurses guide1"
-     style="border: 1px solid #555; margin: 25px; height: 400; max-width: 600px">
-
-#### About page
+#### This is the About page in the guide
 <img
      src="healthrec2.png"
      alt="Nurses guide2"
