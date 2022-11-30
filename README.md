@@ -13,7 +13,7 @@
 - REST API documentation, docs-as-code workflow
 - Familiarity with Java, C, Python, and JavaScript
 - git, GitHub, Confluence, Salesforce 
-- Canva, Snagit, Madcao Flare, Adobe Acrobat, InDesign
+- Canva, Snagit, Madcap Flare, Adobe Acrobat, InDesign
 
 ## My Portfolio
 
