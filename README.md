@@ -53,6 +53,11 @@ Followed a Real Python tutorial to create an app of people and their notes. Usin
      src="SL_cover.png"
      alt="Quick reference guide"
      style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
+
+<img
+     src="hh_guide.png"
+     alt="About page"
+     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
      
 ### Sample index page
 
