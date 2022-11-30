@@ -47,28 +47,21 @@ Twelve-page instructions for new Salesforce users.
 ### Quick reference guide
      
 Thirty one-page guide for intake clinicians (nurses). Guide includes an an index section.
-
-#### Cover page
-<img
-     src="SL_cover.png"
-     alt="Quick reference guide"
-     style="border: 1px solid #555; margin: 25px; height: 400; max-width: 600px">
-
-#### Sample content
-<img
-     src="hh_guide.png"
-     alt="About page"
-     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
      
 #### Sample index page
 <img
      src="index_sample.png"
      alt="sample index page"
      style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
-
+     
 ### Project documentation plan
 
 A documentation plan for producing written content and deliverables in a region-wide new tech implementation.
+
+<img
+     src="doc_plan.png"
+     alt="project documentation plan"
+     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
 
 ### User guide for nurses
 
@@ -85,6 +78,14 @@ A simple guide for admitting and discharging patients online.
      src="healthrec2.png"
      alt="Nurses guide2"
      style="border: 1px solid #555; margin: 25px; height: 400; max-width: 600px">
+            
+### COVID-19 poster
+
+Created a poster from existing Nevada State regulations. This is part of a Boot Camp in technical writing.
+<img
+     src="poster.png"
+     alt="COVID-19 poster"
+     style="border: 1px solid #555; margin: 25px; height: 355; max-width: 565px">
      
 ### Travel guide to Thailand
 
@@ -94,13 +95,6 @@ A useful travel guide when visiting Thailand. This is a group project in a techn
      alt="Travel powerpoint"
      style="border: 1px solid #555; margin: 25px; height: 355; max-width: 565px">
 
-### COVID-19 poster
-
-Created a poster from existing Nevada State regulations. This is part of a Boot Camp in technical writing.
-<img
-     src="poster.png"
-     alt="COVID-19 poster"
-     style="border: 1px solid #555; margin: 25px; height: 355; max-width: 565px">
 
 ### Design Project
 
