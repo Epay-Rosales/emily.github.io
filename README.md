@@ -46,7 +46,7 @@ Twelve-page instructions for new Salesforce users.
 
 ### Quick reference guide
      
-Thirty one-page guide for intake clinicians (nurses). Guide includes an an index section.
+A 31-page guide for intake clinicians. Guide includes an index section. Below is the About page.
 
 #### This is the About page
 <img
@@ -73,7 +73,6 @@ A documentation plan for producing written content and deliverables for a fictit
 
 This is a quick guide for nurses and support staff admitting and discharging patients online.
 
-#### This is the About page in the guide
 <img
      src="healthrec2.png"
      alt="Nurses guide2"
@@ -98,7 +97,7 @@ A useful travel guide when visiting Thailand. This is a group project in a techn
 
 ### Design Project
 
-From raw text, designed a 2-page VOIP sales brochure as part of my technical communications program at SFU.
+Designed a 2-page VOIP sales brochure as part of my technical communications program at SFU.
 
 <img
      src="sales_brochure.png"
