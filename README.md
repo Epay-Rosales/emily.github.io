@@ -1,9 +1,9 @@
 ## My Portfolio - This site is still a work in progress.
 {: .purple}
 
-### REST API Documentation
+### REST API documentation
 
-Followed a Real Python tutorial to create an app of people and their notes. Using Python and a few other tools, created an API documentation in Swagger UI.
+Implemented a web app of people resources using Python, and created a REST API documentation in Swagger.
 
 <img
      src="Flask API.png"
@@ -12,7 +12,7 @@ Followed a Real Python tutorial to create an app of people and their notes. Usin
 
 ### REST API messaging app
 
-##### Created a web API using a Twilio JavaScript helper library, Node.js and Flask. The app is rendered in Glitch. The app lets users send compliments to Twilio-validated phone numbers.
+Implemented an existing web API that sends text messages using Twilio JavaScript and Python SDKs. App is deployed in Glitch.
 
  <img
      src="MakeNice_glitch.png"
@@ -20,20 +20,24 @@ Followed a Real Python tutorial to create an app of people and their notes. Usin
      style="border: 1px solid #555; margin: 25px; height: 400; max-width: 610px">
                                                         
 ### FeedBear instructions featuring Snagit
-#### First example
+
+Example of instructions to add feature requests in FeedBear. Original Word doc features Snagit video.
+
 <img
      src="Feedbear_request.png"
      alt="Feedbear instructions"
      style="margin: 25px; height: 450; max-width: 600px">
      
-#### Second example     
+Example of instructions to post feedback in FeedBear. Original doc features Snagit video.
+
 <img
      src="Feedbear_feedback.png"
      alt="Feedbear instructions"
      style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
 
 ### Salesforce instructions
-#### Twelves pages of step-by-step instructions for new users of Salesforce.
+
+Twelve-page instructions for new Salesforce users.
 
 <img
      src="salesforce.png"
@@ -42,52 +46,65 @@ Followed a Real Python tutorial to create an app of people and their notes. Usin
 
 ### Quick reference guide
      
-#### 31-page guide for clinicians that includes an index section.
+Thirty one-page guide for intake clinicians (nurses). Guide includes an an index section.
 
+#### Cover page
 <img
      src="SL_cover.png"
      alt="Quick reference guide"
-     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
+     style="border: 1px solid #555; margin: 25px; height: 400; max-width: 600px">
 
+#### Sample content
 <img
      src="hh_guide.png"
      alt="About page"
      style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
      
-### Sample index page
-
+#### Sample index page
 <img
      src="index_sample.png"
      alt="sample index page"
      style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
 
+### Project documentation plan
+
+A documentation plan for producing written content and deliverables in a region-wide new tech implementation.
+
 ### User guide for nurses
+
+A simple guide for admitting and discharging patients online.
 
 #### Cover page
 <img
      src="healthrec1.png"
      alt="Nurses guide1"
-     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
+     style="border: 1px solid #555; margin: 25px; height: 400; max-width: 600px">
 
 #### About page
 <img
      src="healthrec2.png"
      alt="Nurses guide2"
-     style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
+     style="border: 1px solid #555; margin: 25px; height: 400; max-width: 600px">
      
 ### Travel guide to Thailand
 
-#### A group project in a technical writing class at BCIT.
-
+A useful travel guide when visiting Thailand. This is a group project in a technical writing class at BCIT.
 <img
      src="thai_cover.png"
      alt="Travel powerpoint"
      style="border: 1px solid #555; margin: 25px; height: 355; max-width: 565px">
-     
-                                                        
+
+### COVID-19 poster
+
+Created a poster from existing Nevada State regulations. This is part of a Boot Camp in technical writing.
+<img
+     src="poster.png"
+     alt="COVID-19 poster"
+     style="border: 1px solid #555; margin: 25px; height: 355; max-width: 565px">
+
 ### Design Project
 
-##### Using existing text, designed a VOIP sales brochure as part of my technical communications program at Simon Fraser University, BC.
+From raw text, designed a 2-page VOIP sales brochure as part of my technical communications program at SFU.
 
 <img
      src="sales_brochure.png"
