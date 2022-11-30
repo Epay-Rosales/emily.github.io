@@ -31,11 +31,6 @@ Followed a Real Python tutorial to create an app of people and their notes. Usin
      src="Feedbear_feedback.png"
      alt="Feedbear instructions"
      style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
-     
-- SalesForce/Confluence instructions
-- User guide for access coordinators
-- User guide for bedside nurses
-- Writing project documentation
 
 ### Salesforce instructions
 #### Twelves pages of step-by-step instructions for new users of Salesforce.
