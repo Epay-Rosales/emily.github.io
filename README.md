@@ -1,4 +1,11 @@
-## This is my portfolio as a technical communicator
+## Emily Rosales, technical writer/communicator
+
+### Education
+- Simon Fraser University, Technical Communications certificate
+- British Columbia Institute of Technology, Technical Writing
+- University of the Philippines, AB Sociology
+
+## My Portfolio
 {: .purple}
 
 ### REST API documentation
