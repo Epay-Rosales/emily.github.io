@@ -81,7 +81,7 @@ Authored a 31-page guide for intake clinicians in a fast-paced call-center envir
      
 ### Project documentation plan
 
-Authored a documentation plan to produce written content and deliverables for a fictitious bank deploying new ATMs regionally. This project is also part of my technical communications program at SFU.
+Authored a 12-page documentation plan to produce written content and deliverables for a fictitious bank. This project is also part of my technical communications program at SFU.
 
 <img
      src="doc_plan.png"
