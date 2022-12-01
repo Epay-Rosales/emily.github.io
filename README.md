@@ -7,19 +7,22 @@
 - University of the Philippines, AB Sociology
 
 ### Skills, Tools, Languages
-- Microsoft manual of style, document development methodology
+- Microsoft Manual of Style, document development methodology
 - HTML5/CSS, Markdown, YAML, JSON
-- Visual Studio, NetBeans
+- Visual Studio Code, Apache NetBeans
 - REST API documentation, docs-as-code workflow
 - Familiarity with Java, C, Python, and JavaScript
 - git, GitHub, Confluence, Salesforce 
-- Canva, Snagit, Madcap Flare, Adobe Acrobat, InDesign
+- Canva, Snagit, Madcap Flare, Adobe Acrobat, InDesign, Microsoft 365 products
+- Health information systems (PARIS, MEDITECH, Strata Pathways)
+
+### Licensed Practical Nurse, British Columbia College of Nurses and Midwives
 
 ## My Portfolio
 
 ### Rest API documentation
 
-Implemented a web app of people resources using Python, and created a REST API documentation in Swagger.
+Implemented a web app of people resources using Python, and created a REST API documentation in Swagger. This project is part of my self-directed studies.
 
 <img
      src="Flask API.png"
@@ -28,7 +31,7 @@ Implemented a web app of people resources using Python, and created a REST API d
 
 ### REST API messaging app
 
-Implemented an existing web API that sends text messages using Twilio JavaScript and Python SDKs. App is deployed in Glitch.
+Implemented an existing web API that sends text messages using Twilio JavaScript and Python SDKs. App is deployed in Glitch. This project is part of my self-directed studies.
 
  <img
      src="MakeNice_glitch.png"
@@ -37,14 +40,14 @@ Implemented an existing web API that sends text messages using Twilio JavaScript
                                                         
 ### FeedBear instructions featuring Snagit
 
-Example of instructions to add feature requests in FeedBear. Original Word doc features Snagit video.
+Wrote instructions to add feature requests in FeedBear. Original Word doc features Snagit video. This project is part of a technical writing boot camp.
 
 <img
      src="Feedbear_request.png"
      alt="Feedbear instructions"
      style="margin: 25px; height: 450; max-width: 600px">
      
-Example of instructions to post feedback in FeedBear. Original doc features Snagit video.
+Wrote instructions to post feedback in FeedBear. Original doc features Snagit video. This project is part of a technical writing boot camp.
 
 <img
      src="Feedbear_feedback.png"
@@ -62,7 +65,7 @@ Twelve-page instructions for new Salesforce users.
 
 ### Quick reference guide
      
-A 31-page guide for intake clinicians. Guide includes an index section.
+Authored a 31-page guide for intake clinicians in a fast-paced call-center environment. It includes procedures, instruction, tables, and index. This is my final project to fulfill the requirements of my technical communications program at SFU.
 
 #### This is the About page
 <img
@@ -78,7 +81,7 @@ A 31-page guide for intake clinicians. Guide includes an index section.
      
 ### Project documentation plan
 
-A documentation plan for producing written content and deliverables for a fictitious bank that's implementing a new system regionally. This is part of my technical communications program at SFU.
+Authored a documentation plan to produce written content and deliverables for a fictitious bank deploying new ATMs regionally. This project is also part of my technical communications program at SFU.
 
 <img
      src="doc_plan.png"
