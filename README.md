@@ -90,7 +90,7 @@ Authored a 12-page documentation plan to produce written content and deliverable
 
 ### User guide for nurses
 
-This is a quick guide for nurses and support staff admitting and discharging patients online.
+Authored a 13-page guide for nurses and support staff admitting and discharging patients online.
 
 <img
      src="healthrec2.png"
