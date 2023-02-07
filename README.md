@@ -20,6 +20,52 @@
 
 ## My Portfolio
 
+### Transport for London Unified API
+The Unified API provides real-time, high-volume, and accurate travel data across all transport modes within TfL and other transport authorities.
+The API is now easier to use. Instead of providing different data formats for each transport mode, the API data is now uniform letting you: 
+•	Create once and maintain less.
+•	Automatically integrate API data into your databases.
+•	Keep your applications running and compatible even if source data changes.
+The API is free and open to use in new ways if you follow the TfL data terms and conditions. 
+We encourage you to use the Unified API instead of old data feeds. These feeds will be phased out once they are fully available in the Unified API. 
+### Use Cases
+Using this API, you can:
+•	Compile accident details for a specified year.
+•	Get air quality data.
+•	Plan a journey across TfL using various transport lines and service types while getting real-time alerts about line or road disruptions, delays, and planned works.
+•	Calculate fares.
+•	Search bike points and occupancy, taxi and minicab information, and available facilities.
+•	Obtain real-time transport timetables and fixed bus schedules.
+•	Predict arrivals for all stops in each transport mode.
+•	Check availability of car and bike parking, and charge connectors.
+### Base URL
+All endpoints referenced below have the following base.
+```
+https://api.tfl.gov.uk/
+```
+### Endpoints
+The Unified API resources include the following:
+•	Accident Stats
+•	Air Quality
+•	Bike Points
+•	Occupancy
+•	Journey
+•	Line
+•	Place
+•	Stop Point
+•	Station Data
+•	Road
+•	Search
+•	Vehicle
+### Getting an API key
+Sign up for an Application ID and Key at https://api-portal.tfl.gov.uk/signup. Add the app_id and app_key query parameters to your requests.
+API reference guide
+Browse and try the endpoints using Swagger UI our build it yourself from this Swagger File.
+### Rate Limits
+You're allowed a maximum of 300 calls per minute per data feed. Then, we'll limit access to the API to prevent slowing down the overall service.
+ 
+![image](https://user-images.githubusercontent.com/60330570/217360890-e6608e2d-e708-4205-aae2-26c079a437e4.png)
+
 ### Rest API documentation
 
 Implemented a web app of people resources using Python, and created a REST API documentation in Swagger. This project is part of my self-directed studies.
