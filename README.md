@@ -47,7 +47,7 @@ Using this API, you can:
 - Check availability of car and bike parking, and charge connectors.
 
 #### Base URL
-Use this base for all endpoints referenced below: [https://api.tfl.gov.uk](mailto:https://api.tfl.gov.uk).
+Use this base for all endpoints referenced below: <https://api.tfl.gov.uk>.
 
 #### Endpoints
 The Unified API resources include the following:
