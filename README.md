@@ -186,6 +186,7 @@ Designed a 2-page VOIP sales brochure as part of my technical communications pro
 
 ##### Coquitlam BC, Canada
 ##### November 2022
+I built this site using [GitHub Pages](https://pages.github.com/).
 
 <style>
   .purple {
