@@ -162,7 +162,7 @@ Created a poster from existing Nevada State regulations. This is part of a Boot 
      
 ### Travel guide to Thailand
 ```
-Co-authored A useful travel guide when visiting Thailand. This is a group project in a technical writing class at BCIT.
+Co-authored a travel guide when visiting Thailand. This is a group project in a technical writing class at BCIT.
 ```
 <img
      src="thai_cover.png"
@@ -180,12 +180,11 @@ Designed a 2-page VOIP sales brochure as part of my technical communications pro
      style="border: 1px solid #555; margin: 25px; height: 450; max-width: 600px">
      
 
-
+#### Email me at:
 
 [simplybiga@gmail.com](mailto:simplybiga@gmail.com)
 
-##### Coquitlam BC, Canada
-##### November 2022
+##### Coquitlam BC, Canada | February 2023
 I built this site using [GitHub Pages](https://pages.github.com/).
 
 <style>
