@@ -68,7 +68,7 @@ The Unified API resources include the following:
 Sign up for an Application ID and Key at [https://api-portal.tfl.gov.uk/signup](mailto:https://api-portal.tfl.gov.uk/signup). Add the `app_id` and `app_key` query parameters to your requests.
 
 #### API reference guide
-Browse and try the endpoints using Swagger UI our build it yourself from this Swagger File.
+Browse and try the endpoints using [Swagger UI](https://api.tfl.gov.uk/swagger/ui/index.html#!/AccidentStats/AccidentStats_Get) our build it yourself from this [Swagger File](https://api.tfl.gov.uk/swagger/docs/v1).
 
 #### Rate Limits
 You're allowed a maximum of 300 calls per minute per data feed. Upon reaching the limit, we'll limit access to the API to prevent slowing down the overall service.
