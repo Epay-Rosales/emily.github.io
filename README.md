@@ -23,8 +23,8 @@
 ### Transport for London Unified API
 
 ```
-Note: I wrote this overview of the TfL API as part of a Cherry Leaf API documentation course.<br>
-See the [TfL API documentation here](https://api.tfl.gov.uk).
+Note: I wrote this overview of the TfL API as part of a Cherry Leaf API documentation course.
+See <https://api.tfl.gov.uk> for the Unified API.
 ```
 
 The Unified API provides real-time, high-volume, and accurate travel data across all transport modes within TfL and other transport authorities.
