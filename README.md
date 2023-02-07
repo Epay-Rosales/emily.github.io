@@ -20,20 +20,20 @@
 
 ## My Portfolio
 
-### Transport for London Unified API
+### Transport for London Unified API (Overview)
 
 ```
 Note: I wrote this overview of the TfL API as part of a Cherry Leaf API documentation course.
 ```
 
 The Unified API provides real-time, high-volume, and accurate travel data across all transport modes within TfL and other transport authorities.
-The API is now easier to use. Instead of providing different data formats for each transport mode, the API data is now uniform letting you: 
+<p>The API is now easier to use. Instead of providing different data formats for each transport mode, the API data is now uniform letting you:</p>
 - Create once and maintain less.
 - Automatically integrate API data into your databases.
 - Keep your applications running and compatible even if source data changes.
 
-The API is free and open to use in new ways if you follow the TfL data terms and conditions.<br> 
-We encourage you to use the Unified API instead of old data feeds. These feeds will be phased out once they are fully available in the Unified API.
+The API is free and open to use in new ways if you follow the TfL data terms and conditions. 
+<p>We encourage you to use the Unified API instead of old data feeds. These feeds will be phased out once they are fully available in the Unified API.</p>
 
 #### Use Cases
 Using this API, you can:
