@@ -48,25 +48,25 @@ Using this API, you can:
 ### Base URL
 All endpoints referenced below have the following base.
 ```
-[https://api.tfl.gov.uk/][mailto:https://api.tfl.gov.uk/]
+[https://api.tfl.gov.uk](mailto:https://api.tfl.gov.uk)
 ```
 ### Endpoints
 The Unified API resources include the following:
-•	Accident Stats
-•	Air Quality
-•	Bike Points
-•	Occupancy
-•	Journey
-•	Line
-•	Place
-•	Stop Point
-•	Station Data
-•	Road
-•	Search
-•	Vehicle
+- Accident Stats
+- Air Quality
+- Bike Points
+- Occupancy
+- Journey
+- Line
+- Place
+- Stop Point
+- Station Data
+- Road
+- Search
+- Vehicle
 
 ### Getting an API key
-Sign up for an Application ID and Key at https://api-portal.tfl.gov.uk/signup. Add the app_id and app_key query parameters to your requests.
+Sign up for an Application ID and Key at [https://api-portal.tfl.gov.uk/signup](mailto:https://api-portal.tfl.gov.uk/signup). Add the app_id and app_key query parameters to your requests.
 
 ### API reference guide
 Browse and try the endpoints using Swagger UI our build it yourself from this Swagger File.
