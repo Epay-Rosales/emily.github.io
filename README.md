@@ -24,7 +24,6 @@
 
 ```
 Note: I wrote this overview of the TfL API as part of a Cherry Leaf API documentation course.
-See <https://api.tfl.gov.uk> for the Unified API.
 ```
 
 The Unified API provides real-time, high-volume, and accurate travel data across all transport modes within TfL and other transport authorities.
@@ -48,10 +47,8 @@ Using this API, you can:
 - Check availability of car and bike parking, and charge connectors.
 
 #### Base URL
-All endpoints referenced below have the following base.
-    ```
-    [https://api.tfl.gov.uk](mailto:https://api.tfl.gov.uk)
-    ```
+Use this base for all endpoints referenced below: [https://api.tfl.gov.uk](mailto:https://api.tfl.gov.uk).
+
 #### Endpoints
 The Unified API resources include the following:
 - Accident Stats
@@ -68,7 +65,7 @@ The Unified API resources include the following:
 - Vehicle
 
 #### Getting an API key
-Sign up for an Application ID and Key at [https://api-portal.tfl.gov.uk/signup](mailto:https://api-portal.tfl.gov.uk/signup). Add the app_id and app_key query parameters to your requests.
+Sign up for an Application ID and Key at [https://api-portal.tfl.gov.uk/signup](mailto:https://api-portal.tfl.gov.uk/signup). Add the `app_id` and `app_key` query parameters to your requests.
 
 #### API reference guide
 Browse and try the endpoints using Swagger UI our build it yourself from this Swagger File.
