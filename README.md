@@ -23,7 +23,8 @@
 ### Transport for London Unified API
 
 ```
-Note: I wrote this overview of the TfL API as part of a Cherry Leaf API documentation course.
+Note: I wrote this overview of the TfL API as part of a Cherry Leaf API documentation course.<br>
+See the TfL API documentation here.
 ```
 
 The Unified API provides real-time, high-volume, and accurate travel data across all transport modes within TfL and other transport authorities.
@@ -32,7 +33,7 @@ The API is now easier to use. Instead of providing different data formats for ea
 - Automatically integrate API data into your databases.
 - Keep your applications running and compatible even if source data changes.
 
-The API is free and open to use in new ways if you follow the TfL data terms and conditions. 
+The API is free and open to use in new ways if you follow the TfL data terms and conditions.<br> 
 We encourage you to use the Unified API instead of old data feeds. These feeds will be phased out once they are fully available in the Unified API.
 
 #### Use Cases
@@ -48,9 +49,9 @@ Using this API, you can:
 
 #### Base URL
 All endpoints referenced below have the following base.
-```
-[https://api.tfl.gov.uk](mailto:https://api.tfl.gov.uk)
-```
+    ```
+    [https://api.tfl.gov.uk](mailto:https://api.tfl.gov.uk)
+    ```
 #### Endpoints
 The Unified API resources include the following:
 - Accident Stats
@@ -73,7 +74,7 @@ Sign up for an Application ID and Key at [https://api-portal.tfl.gov.uk/signup](
 Browse and try the endpoints using Swagger UI our build it yourself from this Swagger File.
 
 #### Rate Limits
-You're allowed a maximum of 300 calls per minute per data feed. Then, we'll limit access to the API to prevent slowing down the overall service.
+You're allowed a maximum of 300 calls per minute per data feed. Upon reaching the limit, we'll limit access to the API to prevent slowing down the overall service.
  
 
 ### Rest API documentation
